@@ -16,13 +16,10 @@ const handleClick = () => setClick(!click)
                         <a href='/'>Home</a>
                     </li>
                     <li>
-                        <a href='/'>Featured</a>
+                        <a href='/Markets'>Markets</a>
                     </li>
                     <li>
-                        <a href='/'>Earn</a>
-                    </li>
-                    <li>
-                        <a href='/'>Contact</a>
+                        <a href='/NFTs'>NFTs</a>
                     </li>
                 </ul>
                 <div className='btn-group'>
